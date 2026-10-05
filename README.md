@@ -18,6 +18,11 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 * **Numpy**
 * **Matplotlib**
 * **Seaborn**
+# Steps to do the EDA 
+* **Analyze the meaning of data and how can we do feature engineering**
+* **Clean the data according to the need**
+* **Do the EDA by answering the questions**
+* **Visualize the result into graphs and charts using matplotlib and seaborn**
 # Limitation of the EDA
 * **Not done bivariate analysis**
 # Author
