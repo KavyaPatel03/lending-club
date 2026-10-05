@@ -18,5 +18,7 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 * **Numpy**
 * **Matplotlib**
 * **Seaborn**
+# Limitation of the EDA
+* **Not done bivariate analysis**
 # Author
 Kavya Patel
