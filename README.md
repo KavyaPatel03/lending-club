@@ -13,6 +13,11 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 
 Identifying applicants likely to repay their loans is crucial, as they can generate profits for the company through interest payments. Rejecting such applicants would result in a loss of potential business.
 On the other hand, approving loans for applicants not likely to repay and at risk of default can lead to substantial financial losses for the company.
+# Steps Of EDA
+* **1. Data Understanding**
+* **2. Data Cleaning**
+* **3. Data Analysis**
+* **4. Data Visualisation**
 # Technologies Used
 * **Pandas** 
 * **Numpy**
